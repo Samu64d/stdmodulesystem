@@ -150,12 +150,12 @@ Inside every module the function *namespace:define/define* is a particular funct
 #define score_holder ::namespace
 #define score_holder ::namespace::const
 
-# Define storage
+# Declare storage
 #define storage namespace:static
 #define storage namespace:volatile
 #define storage namespace:data
 
-# Variables
+# Define variables
 scoreboard objectives add value dummy
 scoreboard ...
 ```
