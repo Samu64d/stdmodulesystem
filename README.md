@@ -2,6 +2,8 @@
 
 Minecarft datapack standard module system.
 
+##WARNING: don't use the world_debug module in your building worlds/server
+
 ## What is stdmodulesystem?
 
 **Stdmodulesystem** is a suite of datapacks and a datapack module system aimed to provide a standard Minecraft command/scripting API for creating complex mod-like datapacks. It consist (version 1.0.0) of 25 datapacks/modules for Minecraft 1.21. Each module
