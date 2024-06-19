@@ -237,4 +237,7 @@ data modify storage namespace:data subnamespace.storage_path ...
 
 The API call conventions are identical.
 
+## Registries
+
+For generating Minecraft registries up to date check out: [stdmodulesystem registries generator](https://github.com/Samu64d/stdmodulesystem-registries-generator)
 
