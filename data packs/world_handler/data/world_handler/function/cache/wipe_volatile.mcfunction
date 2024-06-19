@@ -1,0 +1,10 @@
+#
+# world_handler:cache/wipe_volatile
+#
+
+function world_handler:chunk_manager/cache/wipe_volatile
+function world_handler:chunk_scheduling/cache/wipe_volatile
+function world_handler:forceloaded_chunks_manager/cache/wipe_volatile
+function world_handler:ticking_area_chunks_manager/cache/wipe_volatile
+function world_handler:ticking_areas_manager/cache/wipe_volatile
+function world_handler:world_spawn_manager/cache/wipe_volatile

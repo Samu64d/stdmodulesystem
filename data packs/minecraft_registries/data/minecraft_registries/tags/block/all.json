@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+		"#minecraft_registries:property/id/bit_1",
+		"#minecraft_registries:property/id/bit_2",
+		"#minecraft_registries:property/id/bit_3",
+		"#minecraft_registries:property/id/bit_4",
+		"#minecraft_registries:property/id/bit_5",
+		"#minecraft_registries:property/id/bit_6",
+		"#minecraft_registries:property/id/bit_7",
+		"#minecraft_registries:property/id/bit_8",
+		"#minecraft_registries:property/id/bit_9",
+		"#minecraft_registries:property/id/bit_10",
+		"#minecraft_registries:property/id/bit_11",
+		"#minecraft_registries:property/id/bit_12",
+		"#minecraft_registries:property/id/bit_13",
+		"#minecraft_registries:property/id/bit_14",
+		"#minecraft_registries:property/id/bit_15",
+		"#minecraft_registries:property/id/bit_16"
+	]
+}

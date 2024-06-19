@@ -1,0 +1,3 @@
+#
+# test:boot/bootmgr
+#

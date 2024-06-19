@@ -1,0 +1,11 @@
+#
+# world_handler:ticking_areas_manager/cache/wipe_volatile
+#
+
+data remove storage world_handler:volatile ticking_areas_manager.old_ticking_area_descriptor
+data remove storage world_handler:volatile ticking_areas_manager.new_ticking_area_descriptor
+data remove storage world_handler:volatile ticking_areas_manager.temp_dimension
+data remove storage world_handler:volatile ticking_areas_manager.temp_ticking_area_descriptor
+data remove storage world_handler:volatile ticking_areas_manager.temp_uuid
+data remove storage world_handler:volatile ticking_areas_manager.temp_callback
+data remove storage world_handler:volatile ticking_areas_manager.temp_chunk_list
