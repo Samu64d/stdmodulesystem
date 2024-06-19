@@ -1,11 +1,11 @@
 # STDMODULESYSTEM
 
-Minecarft datapack standard module system
+Minecarft datapack standard module system.
 
 ## What is stdmodulesystem?
 
 **Stdmodulesystem** is a suite of datapacks and a datapack module system aimed to provide a standard Minecraft command/scripting API for creating complex mod-like datapacks. It consist (version 1.0.0) of 25 datapacks/modules for Minecraft 1.21. Each module
-encapsulate all the own logic and the communcation between modules is possible thanks either to the global event bus or using direct api call. The api comunication is strictly bounded by a series of convetions for function data passage like input/output parametes, stack frame, events. At each module is associated a manifest with all the dependencies and the version informations
+encapsulate all the own logic and the communcation between modules is possible thanks either to the global event bus or using direct api call. The api comunication is strictly bounded by a series of convetions for function data passage like input/output parametes, stack frame, events. At each module is associated a manifest with all the dependencies and the version informations.
 
 ## What are the standard module and what are they doing?:
 
