@@ -2,7 +2,7 @@
 
 Minecarft datapack standard module system.
 
-##WARNING: don't use the world_debug module in your building worlds/server
+## WARNING: don't use the world_debug module in your building worlds/server
 
 ## What is stdmodulesystem?
 
