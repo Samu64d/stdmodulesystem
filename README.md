@@ -176,7 +176,7 @@ An API function has a commented header that has this form:
 #  @score1 (in|out|inout): score description
 #  @score2 ...
 #> Storage
-#  @storage1 (in|out|inout): stroage description
+#  @storage1 (in|out|inout): storage description
 #  @storage2 ...
 #> Context
 #  @executor (in): description
