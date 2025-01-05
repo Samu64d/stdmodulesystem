@@ -1,0 +1,10 @@
+#
+# world_handler:cache/set_static
+#
+
+function world_handler:chunk_manager/cache/set_static
+function world_handler:chunk_scheduling/cache/set_static
+function world_handler:forceloaded_chunks_manager/cache/set_static
+function world_handler:ticking_area_chunks_manager/cache/set_static
+function world_handler:ticking_areas_manager/cache/set_static
+function world_handler:world_spawn_manager/cache/set_static

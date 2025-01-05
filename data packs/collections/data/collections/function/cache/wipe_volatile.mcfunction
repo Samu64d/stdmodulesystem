@@ -1,0 +1,15 @@
+#
+# collections:cache/wipe_volatile
+#
+
+function collections:iterable_map/cache/wipe_volatile
+function collections:list/cache/wipe_volatile
+function collections:referenced_array/cache/wipe_volatile
+function collections:referenced_array2d/cache/wipe_volatile
+function collections:referenced_array3d/cache/wipe_volatile
+function collections:referenced_iterable_map/cache/wipe_volatile
+function collections:referenced_list/cache/wipe_volatile
+function collections:referenced_list_multimap/cache/wipe_volatile
+function collections:referenced_set/cache/wipe_volatile
+function collections:referenced_set_multimap/cache/wipe_volatile
+function collections:set/cache/wipe_volatile
